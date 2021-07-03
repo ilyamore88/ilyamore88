@@ -4,9 +4,11 @@ I'm a fullstack web developer
 
 ## My socials
 
-[<img align="left" alt="telegram" src="https://img.shields.io/badge/telegram-0088CC.svg?&style=for-the-badge&logo=telegram&logoColor=white" />](https://t.me/ilyamore88)
+[<img align="left" alt="Telegram" src="https://img.shields.io/badge/telegram-0088CC.svg?&style=for-the-badge&logo=telegram&logoColor=white" />](https://t.me/ilyamore88)
 
-[<img align="left" alt="instagram" src="https://img.shields.io/badge/instagram-C13584.svg?&style=for-the-badge&logo=instagram&logoColor=white" />](https://instagram.com/ilyamore88)
+[<img align="left" alt="Instagram" src="https://img.shields.io/badge/instagram-C13584.svg?&style=for-the-badge&logo=instagram&logoColor=white" />](https://instagram.com/ilyamore88)
+
+[<img align="left" alt="VK" src="https://img.shields.io/badge/vk-2787F5.svg?&style=for-the-badge&logo=vk&logoColor=white" />](https://vk.com/ilyamore88)
 
 <br>
 
