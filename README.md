@@ -1,6 +1,6 @@
 ### Hi there 👋
 I'm a fullstack web developer
-- ⚛ Working on multiple frontend and backend project in CodeX Team and DH Center
+- ⚛ Working on multiple frontend and backend projects in CodeX Team and DH Center
 
 ## My socials
 
