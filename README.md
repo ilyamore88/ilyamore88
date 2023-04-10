@@ -5,7 +5,7 @@ I'm a fullstack web developer
 
 ## My socials
 
-[<img align="left" alt="LinkedIn" src="https://img.shields.io/badge/linkedin-0e76a8.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/ilya-moroz-a93887217/)
+[<img align="left" alt="LinkedIn" src="https://img.shields.io/badge/linkedin-0e76a8.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/ilya-maroz-a93887217/)
 
 [<img align="left" alt="Telegram" src="https://img.shields.io/badge/telegram-0088CC.svg?&style=for-the-badge&logo=telegram&logoColor=white" />](https://t.me/ilyamore88)
 
